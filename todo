@@ -1,0 +1,22 @@
+find by id using params
+findone and update
+{set,new key word}
+
+delete one
+
+_________________
+count
+sort("name")
+sort("-name")
+
+limit
+skip(.limit().skip())
+
+dsitinct("key")->> returns array's distict values
+
+_______________________-
+while chaining use exec() method at last //currently on use
+_______________________________________-
+populate
+
+
